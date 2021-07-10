@@ -1,0 +1,50 @@
+{
+  "1": {
+    "icon": "🐉",
+    "name": "古代巨龍",
+    "effect": "自已以外扣 1-3 點血",
+    "sticker_id": "CAACAgUAAxkBAAECMsxgfBrtWkQdrI9Q79NBEwYyc18m6wACmwIAAjnR4Ff0xZ5rF5Q-OB8E"
+  },
+  "2": {
+    "icon": "👻",
+    "name": "黑暗幽靈",
+    "effect": "自己回復 1 點血，其餘扣 1 點血",
+    "sticker_id": "CAACAgUAAxkBAAECMs5gfBr2b6EO-0hxXRdY_nERzdCSvAAC4AIAAozc4FeRzPIKxZBFXB8E"
+  },
+  "3": {
+    "icon": "🦄",
+    "name": "甜蜜的夢",
+    "effect": "回復 1-3 點血",
+    "sticker_id": "CAACAgUAAxkBAAECMtBgfBr-okBNJOY95lEvKqS2AZ1ujgACVwMAAvqD4VeKiJSPSx3K9h8E"
+  },
+  "4": {
+    "icon": "🦉",
+    "name": "貓頭鷹",
+    "effect": "抽 1 個祕密魔法石",
+    "sticker_id": "CAACAgUAAxkBAAECMtJgfBsHUO_KBNt9Tc7kEfZ9_0kXGgACQgIAAl2q4VfQUWX2QxpoAh8E"
+  },
+  "5": {
+    "icon": "⚡",
+    "name": "閃電暴風雨",
+    "effect": "左右的魔法師扣 1 點血",
+    "sticker_id": "CAACAgUAAxkBAAECMtRgfBsRd9FsshLiIDrd1NdRa6OSeQACnQIAAnKz4FdlpPYhFPrsCx8E"
+  },
+  "6": {
+    "icon": "❄️️",
+    "name": "暴風雪",
+    "effect": "左邊的魔法師扣 1 點血",
+    "sticker_id": "CAACAgUAAxkBAAECMtZgfBscq_3idheltRHGS6Ni7ECzQAACowIAAiT84VejtZvT3KBNCx8E"
+  },
+  "7": {
+    "icon": "️‍🔥",
+    "name": "火球",
+    "effect": "右邊的魔法師扣 1 點血",
+    "sticker_id": "CAACAgUAAxkBAAECMthgfBskkZ7BxeqDwGEI1CiMTrjxSgAC0AMAAuZ34VfQaiHPdH_rLR8E"
+  },
+  "8": {
+    "icon": "🧪",
+    "name": "魔法藥水",
+    "effect": "自己回復 1 點血",
+    "sticker_id": "CAACAgUAAxkBAAECMtpgfBsxVJJdSk4oEhYQ8n6TTfJitwAC7AIAAkbj4FfhUL5GvFSc4B8E"
+  }
+}
